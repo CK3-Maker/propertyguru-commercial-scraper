@@ -1,1 +1,1805 @@
-{"last_run_at": null, "listings": {}}
+{
+  "last_run_at": "2026-05-14T11:51:56.169827+08:00",
+  "listings": {
+    "501327965": {
+      "listing_id": "501327965",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/lot-banglo-jalan-serama-untuk-dijual-oleh-mohd-nazri-501327965",
+      "title": "Lot Banglo - Jalan Serama",
+      "price": "RM 1,100,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500362148": {
+      "listing_id": "500362148",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/jalan-kuari-sungai-long-hulu-langat-untuk-dijual-oleh-ahmad-gadafi-md-nor-500362148",
+      "title": "Jalan Kuari Sungai Long, Hulu Langat",
+      "price": "RM 270,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500061013": {
+      "listing_id": "500061013",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/singgah-santai-resort-untuk-dijual-oleh-liza-khalid-500061013",
+      "title": "Singgah Santai Resort",
+      "price": "RM 11,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501324403": {
+      "listing_id": "501324403",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-ramal-untuk-dijual-oleh-shafiq-muttalib-501324403",
+      "title": "Kampung Sungai Ramal",
+      "price": "RM 12,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501319775": {
+      "listing_id": "501319775",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-pertanian-hulu-langat-untuk-dijual-oleh-amir-abas-501319775",
+      "title": "Tanah pertanian Hulu Langat",
+      "price": "RM 499,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "41805614": {
+      "listing_id": "41805614",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/the-ocean-residence-untuk-dijual-oleh-aziani-ahmad-41805614",
+      "title": "The Ocean Residence",
+      "price": "RM 11,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501318693": {
+      "listing_id": "501318693",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/solid-square-land-parit-sikom-agriculture-land-6-356-acre-untuk-dijual-oleh-joreen-lee-501318693",
+      "title": "Solid Square Land_Parit Sikom Agriculture Land_6.356 Acre",
+      "price": "RM 603,820",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501316212": {
+      "listing_id": "501316212",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/0-95-ekar-tepi-jalan-tanah-pembangunan-kampung-bukit-lanjan-sungai-penchala-kuala-lumpur-untuk-dijual-oleh-nik-azwan-501316212",
+      "title": "(0.95 Ekar, Tepi Jalan) Tanah Pembangunan, Kampung Bukit Lanjan, Sungai Penchala, Kuala Lumpur",
+      "price": "RM 3,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501315710": {
+      "listing_id": "501315710",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/lubuk-kelubi-hulu-langat-untuk-dijual-oleh-muhammed-nazri-bin-mustapha-501315710",
+      "title": "Lubuk Kelubi Hulu Langat",
+      "price": "RM 2,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501313693": {
+      "listing_id": "501313693",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kajang-untuk-dijual-oleh-fazillah-rahim-501313693",
+      "title": "Kajang",
+      "price": "RM 5,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60045489": {
+      "listing_id": "60045489",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kawasan-perindustrian-kelapa-sawit-untuk-dijual-oleh-tom-chiew-60045489",
+      "title": "Kawasan Perindustrian Kelapa Sawit",
+      "price": "RM 26,136,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501046503": {
+      "listing_id": "501046503",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agriculture-land-pulau-indah-klang-untuk-dijual-oleh-ibrahim-iderus-501046503",
+      "title": "Agriculture Land @ Pulau Indah Klang",
+      "price": "RM 1,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500626504": {
+      "listing_id": "500626504",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/janda-baik-bentong-pahang-agriculture-land-for-sale-with-exclusive-riverside-estate-untuk-dijual-oleh-laili-mihdar-500626504",
+      "title": "Janda Baik Bentong Pahang Agriculture Land For Sale with Exclusive Riverside Estate",
+      "price": "RM 3,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42719414": {
+      "listing_id": "42719414",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/8-ekar-free-hold-338k-sqft-agro-land-kulai-pontian-18min-ke-tol-kulai-untuk-dijual-oleh-khairi-ismail-42719414",
+      "title": "8 Ekar Free Hold 338K sqft Agro Land Kulai/ Pontian 18min Ke Tol Kulai",
+      "price": "RM 460,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501299412": {
+      "listing_id": "501299412",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/jalan-kampung-pasir-untuk-dijual-oleh-danial-mohd-zaki-501299412",
+      "title": "Jalan Kampung Pasir",
+      "price": "RM 2,100,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42595277": {
+      "listing_id": "42595277",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/3-star-of-sutera-inn-prima-bandar-kota-bharu-kelantan-untuk-dijual-oleh-nik-azwan-42595277",
+      "title": "3 Star of Sutera Inn Prima, Bandar Kota Bharu, Kelantan",
+      "price": "RM 25,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500167856": {
+      "listing_id": "500167856",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/good-rental-yield-high-traffic-2-storey-shoplot-telipot-kota-bharu-untuk-dijual-oleh-nik-azwan-500167856",
+      "title": "(Good Rental Yield, High Traffic) 2 Storey Shoplot,Telipot Kota Bharu",
+      "price": "RM 4,700,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42872519": {
+      "listing_id": "42872519",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/1-582-kp-tepi-jalan-bebas-banjir-lot-kedai-di-kok-lanas-ketereh-kelantan-untuk-dijual-oleh-nik-azwan-42872519",
+      "title": "( 1,582 KP, Tepi Jalan, Bebas Banjir) Lot Kedai di Kok Lanas, Ketereh, Kelantan",
+      "price": "RM 85,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42749927": {
+      "listing_id": "42749927",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-tanah-pertanian-1-3-ekar-jalan-kuari-sungai-long-batu-11-kg-sungai-serai-hulu-langat-untuk-dijual-oleh-nik-azwan-42749927",
+      "title": "(Freehold) Tanah Pertanian 1.3 Ekar Jalan Kuari Sungai Long, Batu 11, Kg Sungai Serai, Hulu Langat",
+      "price": "RM 700,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "39397427": {
+      "listing_id": "39397427",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-pembangunan-6-33-ekar-bersebelahan-taman-mutiara-putra-kg-tengah-sungai-merab-kajang-untuk-dijual-oleh-nik-azwan-39397427",
+      "title": "Tanah Pembangunan 6.33 Ekar Bersebelahan Taman Mutiara Putra, Kg Tengah Sungai Merab, Kajang",
+      "price": "RM 5,106,439",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500507987": {
+      "listing_id": "500507987",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/2-33-acres-of-prime-commercial-zoned-land-tanjung-lumpur-kuantan-untuk-dijual-oleh-nik-azwan-500507987",
+      "title": "2.33 Acres of Prime Commercial-Zoned Land,Tanjung Lumpur, Kuantan",
+      "price": "RM 1,580,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500382816": {
+      "listing_id": "500382816",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tepi-jalan-freehold-tanah-pembangunan-1-125-ekar-kampung-merbau-sempak-sungai-buloh-shah-alam-untuk-dijual-oleh-nik-azwan-500382816",
+      "title": "(Tepi Jalan, Freehold) Tanah Pembangunan 1.125 Ekar, Kampung Merbau Sempak, Sungai Buloh, Shah Alam",
+      "price": "RM 1,900,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500391461": {
+      "listing_id": "500391461",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-next-to-country-height-damansara-tanah-pembangunan-1-25-ekar-kg-sg-penchala-kuala-lumpur-untuk-dijual-oleh-nik-azwan-500391461",
+      "title": "(Freehold, Next to Country Height Damansara)Tanah Pembangunan 1.25 Ekar Kg Sg Penchala, Kuala Lumpur",
+      "price": "RM 2,994,750",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500400700": {
+      "listing_id": "500400700",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-zon-kediaman-tanah-pembangunan-4-11-ekar-kampung-sungai-semungkis-batu-14-hulu-langat-untuk-dijual-oleh-nik-azwan-500400700",
+      "title": "(Freehold, Zon Kediaman) Tanah Pembangunan 4.11 Ekar, Kampung Sungai Semungkis, Batu 14, Hulu Langat",
+      "price": "RM 1,100,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500482003": {
+      "listing_id": "500482003",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/0-52-ekar-tanah-rata-tanah-pembangunan-di-wakaf-stan-kubang-kerian-kota-bharu-kelantan-untuk-dijual-oleh-nik-azwan-500482003",
+      "title": "(0.52 Ekar, Tanah Rata) Tanah Pembangunan di Wakaf Stan, Kubang Kerian, Kota Bharu, Kelantan",
+      "price": "RM 450,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500485373": {
+      "listing_id": "500485373",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-penchala-untuk-dijual-oleh-derrick-rhiemus-500485373",
+      "title": "Kampung Sungai Penchala",
+      "price": "RM 3,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501295762": {
+      "listing_id": "501295762",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-kelapa-sawit-kuala-langat-selangor-untuk-dijual-oleh-amir-abas-501295762",
+      "title": "Tanah Kelapa Sawit Kuala Langat Selangor",
+      "price": "RM 1,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500503761": {
+      "listing_id": "500503761",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/gong-kulim-pasir-puteh-untuk-dijual-oleh-abu-mansur-500503761",
+      "title": "Gong Kulim Pasir Puteh",
+      "price": "RM 300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500597514": {
+      "listing_id": "500597514",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sedili-besar-untuk-dijual-oleh-haji-andy-mohamadon-500597514",
+      "title": "Sedili Besar",
+      "price": "RM 3,700,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500849303": {
+      "listing_id": "500849303",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/beranang-untuk-dijual-oleh-zaifuldiamin-ahmad-500849303",
+      "title": "Beranang",
+      "price": "RM 2,450,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500848352": {
+      "listing_id": "500848352",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/beranang-untuk-dijual-oleh-zaifuldiamin-ahmad-500848352",
+      "title": "Beranang",
+      "price": "RM 289,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501291952": {
+      "listing_id": "501291952",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kubang-badak-langkawi-untuk-dijual-oleh-airul-nizam-501291952",
+      "title": "Kubang Badak, Langkawi",
+      "price": "RM 490,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42404045": {
+      "listing_id": "42404045",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/6-4-acre-residential-land-kampung-sungai-pusu-gombak-selangor-for-sale-untuk-dijual-oleh-amirul-ashraff-42404045",
+      "title": "6.4 Acre Residential Land Kampung Sungai Pusu Gombak Selangor FOR SALE",
+      "price": "RM 4,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501291844": {
+      "listing_id": "501291844",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-pertanian-getah-rembau-untuk-dijual-oleh-hasliza-hassan-501291844",
+      "title": "Tanah Pertanian (Getah) Rembau",
+      "price": "RM 250,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500689379": {
+      "listing_id": "500689379",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/puncak-bukit-bebas-banjir-tanah-pertanian-3-7-ekar-kg-bukit-durian-tanah-merah-kelantan-untuk-dijual-oleh-nik-azwan-500689379",
+      "title": "(Puncak Bukit, Bebas Banjir) Tanah Pertanian 3.7 Ekar, Kg Bukit Durian, Tanah Merah, Kelantan",
+      "price": "RM 128,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60264730": {
+      "listing_id": "60264730",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-lui-hulu-langat-hilltop-view-untuk-dijual-oleh-firdaus-husin-60264730",
+      "title": "Sungai Lui Hulu Langat (HillTop View)",
+      "price": "RM 9,880,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500614078": {
+      "listing_id": "500614078",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/lubok-manggis-untuk-dijual-oleh-shiqin-saidin-500614078",
+      "title": "Lubok Manggis",
+      "price": "RM 1,900,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500614236": {
+      "listing_id": "500614236",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-long-untuk-dijual-oleh-shiqin-saidin-500614236",
+      "title": "Sungai Long",
+      "price": "RM 19,689,900",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501283829": {
+      "listing_id": "501283829",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/ulu-yam-untuk-dijual-oleh-shiqin-saidin-501283829",
+      "title": "Ulu Yam",
+      "price": "RM 550,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501283855": {
+      "listing_id": "501283855",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/ulu-yam-untuk-dijual-oleh-shiqin-saidin-501283855",
+      "title": "Ulu Yam",
+      "price": "RM 550,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501283873": {
+      "listing_id": "501283873",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/batang-kali-untuk-dijual-oleh-shiqin-saidin-501283873",
+      "title": "Batang Kali",
+      "price": "RM 550,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501283889": {
+      "listing_id": "501283889",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/ulu-yam-untuk-dijual-oleh-shiqin-saidin-501283889",
+      "title": "Ulu Yam",
+      "price": "RM 550,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501283791": {
+      "listing_id": "501283791",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/batang-kali-untuk-dijual-oleh-shiqin-saidin-501283791",
+      "title": "Batang Kali",
+      "price": "RM 550,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60506559": {
+      "listing_id": "60506559",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kuala-nerang-untuk-dijual-oleh-isz-lynn-60506559",
+      "title": "Kuala Nerang",
+      "price": "RM 28,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500614397": {
+      "listing_id": "500614397",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-lui-untuk-dijual-oleh-shiqin-saidin-500614397",
+      "title": "Sungai Lui",
+      "price": "RM 1,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500614306": {
+      "listing_id": "500614306",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/hulu-langat-untuk-dijual-oleh-shiqin-saidin-500614306",
+      "title": "Hulu Langat",
+      "price": "RM 3,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501257529": {
+      "listing_id": "501257529",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-ramal-kajang-untuk-dijual-oleh-ali-idris-501257529",
+      "title": "Sungai Ramal kajang",
+      "price": "RM 12,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501267954": {
+      "listing_id": "501267954",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-pusu-untuk-dijual-oleh-sue-arifin-501267954",
+      "title": "Kampung Sungai Pusu",
+      "price": "RM 1,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501264747": {
+      "listing_id": "501264747",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/bandar-baru-bangi-untuk-dijual-oleh-arif-halim-501264747",
+      "title": "Bandar Baru Bangi",
+      "price": "RM 12,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500262657": {
+      "listing_id": "500262657",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/road-b48-salak-tinggi-sepang-untuk-dijual-oleh-mohammad-sabri-mohd-khir-500262657",
+      "title": "Road B48, Salak Tinggi @ Sepang",
+      "price": "RM 14,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501261867": {
+      "listing_id": "501261867",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/prime-commercial-land-sungai-ramal-untuk-dijual-oleh-m-j-zairin-501261867",
+      "title": "Prime Commercial Land Sungai Ramal",
+      "price": "RM 12,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500823418": {
+      "listing_id": "500823418",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-pacat-untuk-dijual-oleh-alhafiz-azis-500823418",
+      "title": "Kampung Sungai Pacat",
+      "price": "RM 340,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60044990": {
+      "listing_id": "60044990",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-tepi-jalan-tanah-pembangunan-1-67-ekar-bandar-baru-salak-tinggi-sepang-untuk-dijual-oleh-nik-azwan-60044990",
+      "title": "(Freehold, Tepi Jalan) Tanah Pembangunan 1.67 Ekar, Bandar Baru Salak Tinggi, Sepang",
+      "price": "RM 1,531,402",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42953385": {
+      "listing_id": "42953385",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-tepi-jalan-besar-tanah-pembangunan-3-52-ekar-bandar-baru-salak-tinggi-sepang-untuk-dijual-oleh-nik-azwan-42953385",
+      "title": "(Freehold, Tepi Jalan Besar) Tanah Pembangunan 3.52 Ekar, Bandar Baru Salak Tinggi, Sepang",
+      "price": "RM 3,219,447",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42868838": {
+      "listing_id": "42868838",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-mcl-tanah-rata-tanah-pembangunan-4-47-ekar-di-kg-ladang-semabok-melaka-untuk-dijual-oleh-nik-azwan-42868838",
+      "title": "(Freehold MCL, Tanah Rata) Tanah Pembangunan 4.47 Ekar di Kg Ladang, Semabok, Melaka",
+      "price": "RM 2,920,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42517683": {
+      "listing_id": "42517683",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/9772-kp-depan-kb-mall-tanah-rata-tanah-komersil-bandar-kota-bharu-kelantan-untuk-dijual-oleh-nik-azwan-42517683",
+      "title": "(9772 KP, Depan KB Mall, Tanah Rata) Tanah Komersil, Bandar Kota Bharu, Kelantan",
+      "price": "RM 165,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42517634": {
+      "listing_id": "42517634",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/4-85-ekar-tepi-lebuhraya-bebas-banjir-tanah-pembangunan-di-machang-kelantan-untuk-dijual-oleh-nik-azwan-42517634",
+      "title": "(4.85 Ekar, Tepi Lebuhraya, Bebas Banjir) Tanah Pembangunan di Machang, Kelantan",
+      "price": "RM 1,280,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42517615": {
+      "listing_id": "42517615",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/7836kp-geran-individu-dekat-sekolah-kampung-kemumin-kota-bharu-kelantan-untuk-dijual-oleh-nik-azwan-42517615",
+      "title": "(7836KP, Geran Individu, Dekat Sekolah) Kampung Kemumin, Kota Bharu, Kelantan",
+      "price": "RM 38,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42411678": {
+      "listing_id": "42411678",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-cantik-anak-sungai-tanah-pertanian-10-ekar-ampang-pechah-kuala-kubu-bharu-untuk-dijual-oleh-nik-azwan-42411678",
+      "title": "(Tanah Cantik, Anak Sungai) Tanah Pertanian 10 Ekar Ampang Pechah, Kuala Kubu Bharu",
+      "price": "RM 2,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501253494": {
+      "listing_id": "501253494",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sg-penchala-commercial-land-untuk-dijual-oleh-feisal-501253494",
+      "title": "Sg Penchala Commercial Land",
+      "price": "RM 25,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500811091": {
+      "listing_id": "500811091",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/industrial-land-sepang-selangor-untuk-dijual-oleh-zuraina-rajudin-500811091",
+      "title": "Industrial Land, Sepang, Selangor",
+      "price": "RM 110,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500836442": {
+      "listing_id": "500836442",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/langkawi-untuk-dijual-oleh-solha-binti-mohd-yusoff-500836442",
+      "title": "Langkawi",
+      "price": "RM 4,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "41138137": {
+      "listing_id": "41138137",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agriculture-land-zoning-commercial-kuala-muda-pantai-merdeka-kedah-untuk-dijual-oleh-zarif-zahisham-41138137",
+      "title": "Agriculture land zoning commercial Kuala Muda Pantai Merdeka Kedah",
+      "price": "RM 3,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500627741": {
+      "listing_id": "500627741",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/port-dickson-untuk-dijual-oleh-rafidah-binti-aziz-500627741",
+      "title": "Port Dickson",
+      "price": "RM 1,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501245650": {
+      "listing_id": "501245650",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-batu-20-sungai-lui-untuk-dijual-oleh-danial-mohd-zaki-501245650",
+      "title": "Kampung Batu 20 Sungai Lui",
+      "price": "RM 1,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501245290": {
+      "listing_id": "501245290",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-semungkis-untuk-dijual-oleh-danial-mohd-zaki-501245290",
+      "title": "Kampung Sungai Semungkis",
+      "price": "RM 1,350,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500511604": {
+      "listing_id": "500511604",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-ulu-bernam-selangor-untuk-dijual-oleh-iz-hakim-500511604",
+      "title": "Tanah Ulu Bernam Selangor",
+      "price": "RM 690,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60353335": {
+      "listing_id": "60353335",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-batang-kali-untuk-dijual-oleh-iz-hakim-60353335",
+      "title": "Tanah Batang kali",
+      "price": "RM 600,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60346629": {
+      "listing_id": "60346629",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/hulu-tamu-batang-kali-untuk-dijual-oleh-iz-hakim-60346629",
+      "title": "Hulu tamu batang kali",
+      "price": "RM 822,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60382778": {
+      "listing_id": "60382778",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/atas-bukit-tanah-batang-kali-hulu-rening-untuk-dijual-oleh-iz-hakim-60382778",
+      "title": "Atas Bukit! Tanah Batang Kali @ Hulu Rening",
+      "price": "RM 560,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60367673": {
+      "listing_id": "60367673",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-dan-resort-batang-kali-untuk-dijual-oleh-iz-hakim-60367673",
+      "title": "Tanah Dan Resort Batang kali",
+      "price": "RM 2,600,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60352489": {
+      "listing_id": "60352489",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-di-jalan-rasa-ke-bukit-beruntung-untuk-dijual-oleh-iz-hakim-60352489",
+      "title": "Tanah Di jalan Rasa ke Bukit beruntung",
+      "price": "RM 660,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500796929": {
+      "listing_id": "500796929",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/proton-city-untuk-dijual-oleh-yanie-yussuf-500796929",
+      "title": "Proton City",
+      "price": "RM 1,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500265456": {
+      "listing_id": "500265456",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/road-b48-salak-tinggi-sepang-untuk-dijual-oleh-mohammad-sabri-mohd-khir-500265456",
+      "title": "Road B48, Salak Tinggi @ Sepang",
+      "price": "RM 3,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500819201": {
+      "listing_id": "500819201",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanjung-dawai-untuk-dijual-oleh-shahidan-ismail-500819201",
+      "title": "Tanjung Dawai",
+      "price": "RM 425,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501223519": {
+      "listing_id": "501223519",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-rantau-abang-untuk-dijual-oleh-ariff-501223519",
+      "title": "Kampung Rantau Abang",
+      "price": "RM 390,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501222752": {
+      "listing_id": "501222752",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-penchala-untuk-dijual-oleh-rahibah-omar-501222752",
+      "title": "Sungai Penchala",
+      "price": "RM 850,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60218402": {
+      "listing_id": "60218402",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agriculture-land-kg-batu-laut-tanjung-sepat-sepang-untuk-dijual-oleh-laila-zain-60218402",
+      "title": "Agriculture Land Kg Batu Laut Tanjung Sepat Sepang",
+      "price": "RM 450,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42816636": {
+      "listing_id": "42816636",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/jijan-labu-untuk-dijual-oleh-joe-matthew-42816636",
+      "title": "Jijan Labu",
+      "price": "RM 1,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501064493": {
+      "listing_id": "501064493",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-merab-untuk-dijual-oleh-zamshary-budin-501064493",
+      "title": "Sungai Merab",
+      "price": "RM 3,750,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "41657224": {
+      "listing_id": "41657224",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/jalan-cheras-kajang-untuk-dijual-oleh-teh-41657224",
+      "title": "Jalan Cheras Kajang",
+      "price": "RM 3,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501220126": {
+      "listing_id": "501220126",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-sendat-ulu-yam-batang-kali-untuk-dijual-oleh-nuraishah-binti-mohamed-azmi-501220126",
+      "title": "Sungai sendat Ulu Yam Batang Kali",
+      "price": "RM 3,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501216196": {
+      "listing_id": "501216196",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kuala-selangor-untuk-dijual-oleh-ashraff-daniel-501216196",
+      "title": "Kuala Selangor",
+      "price": "RM 2,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501211064": {
+      "listing_id": "501211064",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/dusun-emas-lenggeng-untuk-dijual-oleh-halim-hp-501211064",
+      "title": "Dusun Emas Lenggeng",
+      "price": "RM 340,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500495150": {
+      "listing_id": "500495150",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-tepi-pantai-sungai-ular-kuantan-untuk-dijual-oleh-amru-alhaz-adnan-500495150",
+      "title": "Tanah tepi pantai sungai ular kuantan",
+      "price": "RM 770,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501204898": {
+      "listing_id": "501204898",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-lui-untuk-dijual-oleh-zulfikar-zainal-501204898",
+      "title": "Kampung Sungai Lui",
+      "price": "RM 800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501204747": {
+      "listing_id": "501204747",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-malay-land-building-status-taman-seri-gombak-height-untuk-dijual-oleh-iz-hakim-501204747",
+      "title": "Freehold Malay Land Building status Taman seri gombak Height",
+      "price": "RM 19,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60347931": {
+      "listing_id": "60347931",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-pertanian-batang-kali-selangor-untuk-dijual-oleh-iz-hakim-60347931",
+      "title": "Tanah Pertanian Batang Kali Selangor",
+      "price": "RM 510,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501203904": {
+      "listing_id": "501203904",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kuala-linggi-untuk-dijual-oleh-ismi-muhammad-501203904",
+      "title": "Kuala Linggi",
+      "price": "RM 480,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501203055": {
+      "listing_id": "501203055",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/ulu-tiram-untuk-dijual-oleh-amir-faris-rusli-501203055",
+      "title": "Ulu Tiram",
+      "price": "RM 2,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42836690": {
+      "listing_id": "42836690",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-pening-untuk-dijual-oleh-amirul-nasyriq-42836690",
+      "title": "Sungai Pening",
+      "price": "RM 650,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500516752": {
+      "listing_id": "500516752",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/gemas-untuk-dijual-oleh-steven-tay-500516752",
+      "title": "Gemas",
+      "price": "RM 60,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500517253": {
+      "listing_id": "500517253",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/dengkil-untuk-dijual-oleh-steven-tay-500517253",
+      "title": "Dengkil",
+      "price": "RM 3,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501196540": {
+      "listing_id": "501196540",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-machang-untuk-dijual-oleh-azim-othman-501196540",
+      "title": "Kampung Sungai Machang",
+      "price": "RM 750,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501058633": {
+      "listing_id": "501058633",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sepang-near-to-putrajaya-untuk-dijual-oleh-fauzi-abdullah-501058633",
+      "title": "Sepang Near to Putrajaya",
+      "price": "RM 5,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501191793": {
+      "listing_id": "501191793",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/jeram-kuala-selangor-untuk-dijual-oleh-wan-azlan-ahmad-501191793",
+      "title": "Jeram Kuala Selangor",
+      "price": "RM 2,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501184603": {
+      "listing_id": "501184603",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kita-avenue-square-untuk-dijual-oleh-amir-abas-501184603",
+      "title": "KITA Avenue Square",
+      "price": "RM 1,339,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500043664": {
+      "listing_id": "500043664",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/mersing-johor-untuk-dijual-oleh-herman-lokman-500043664",
+      "title": "Mersing Johor",
+      "price": "RM 105,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501181782": {
+      "listing_id": "501181782",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-penchala-untuk-dijual-oleh-norhuda-ab-rahman-501181782",
+      "title": "Kampung Sungai Penchala",
+      "price": "RM 3,900,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501181583": {
+      "listing_id": "501181583",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/rimbunan-chalet-sungai-sendat-batang-kali-untuk-dijual-oleh-cik-maya-abdul-501181583",
+      "title": "Rimbunan Chalet, Sungai Sendat, Batang Kali",
+      "price": "RM 3,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501179246": {
+      "listing_id": "501179246",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-pulau-meranti-untuk-dijual-oleh-mohammad-din-majid-501179246",
+      "title": "Kampung Pulau Meranti",
+      "price": "RM 2,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501179204": {
+      "listing_id": "501179204",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-pulau-meranti-untuk-dijual-oleh-mohammad-din-majid-501179204",
+      "title": "Kampung Pulau Meranti",
+      "price": "RM 7,840,600",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501178914": {
+      "listing_id": "501178914",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/pekan-batu-14-untuk-dijual-oleh-mohammad-din-majid-501178914",
+      "title": "Pekan Batu 14",
+      "price": "RM 2,600,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501176485": {
+      "listing_id": "501176485",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/segamat-untuk-dijual-oleh-norafian-smh-501176485",
+      "title": "segamat",
+      "price": "RM 483,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500574682": {
+      "listing_id": "500574682",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/jeram-industrial-land-fully-converted-untuk-dijual-oleh-keith-lian-500574682",
+      "title": "Jeram Industrial Land (Fully Converted)",
+      "price": "RM 10,900,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500773569": {
+      "listing_id": "500773569",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kg-jerjak-ulu-jempol-untuk-dijual-oleh-shahidan-ismail-500773569",
+      "title": "KG JERJAK,ULU JEMPOL",
+      "price": "RM 200,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501163904": {
+      "listing_id": "501163904",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/batang-kali-untuk-dijual-oleh-mohammad-din-majid-501163904",
+      "title": "Batang Kali",
+      "price": "RM 800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501163884": {
+      "listing_id": "501163884",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/batang-kali-untuk-dijual-oleh-mohammad-din-majid-501163884",
+      "title": "Batang Kali",
+      "price": "RM 500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501163859": {
+      "listing_id": "501163859",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sabak-bernam-untuk-dijual-oleh-mohammad-din-majid-501163859",
+      "title": "Sabak Bernam",
+      "price": "RM 1,100,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501163833": {
+      "listing_id": "501163833",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/beranang-untuk-dijual-oleh-mohammad-din-majid-501163833",
+      "title": "Beranang",
+      "price": "RM 630,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501163642": {
+      "listing_id": "501163642",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-besar-untuk-dijual-oleh-mohammad-din-majid-501163642",
+      "title": "Sungai Besar",
+      "price": "RM 360,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500420147": {
+      "listing_id": "500420147",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanjong-karang-untuk-dijual-oleh-amirul-nasyriq-500420147",
+      "title": "Tanjong Karang",
+      "price": "RM 352,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500351611": {
+      "listing_id": "500351611",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/hulu-langat-untuk-dijual-oleh-fitri-zainal-500351611",
+      "title": "Hulu Langat",
+      "price": "RM 2,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500451568": {
+      "listing_id": "500451568",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/2-ekar-tanah-di-gombak-mmr2-tbg-untuk-dijual-oleh-elfa-don-500451568",
+      "title": "2 EKAR TANAH DI GOMBAK MMR2 & TBG",
+      "price": "RM 1,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500724897": {
+      "listing_id": "500724897",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/termurah-4-6-ekar-tanah-kerling-untuk-dijual-oleh-iz-hakim-500724897",
+      "title": "TERMURAH 4.6 Ekar tanah kerling",
+      "price": "RM 290,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500495478": {
+      "listing_id": "500495478",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/selayang-land-untuk-dijual-oleh-iz-hakim-500495478",
+      "title": "Selayang Land",
+      "price": "RM 4,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501160717": {
+      "listing_id": "501160717",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-baru-pulau-sayak-untuk-dijual-oleh-hasnizam-501160717",
+      "title": "Kampung Baru Pulau Sayak",
+      "price": "RM 1,262,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "43446083": {
+      "listing_id": "43446083",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agriculture-land-labok-machang-untuk-dijual-oleh-tengku-sutina-tengku-baharuddin-43446083",
+      "title": "Agriculture land Labok Machang",
+      "price": "RM 150,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500424038": {
+      "listing_id": "500424038",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/lenggong-untuk-dijual-oleh-sue-ahmad-500424038",
+      "title": "Lenggong",
+      "price": "RM 850,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60050049": {
+      "listing_id": "60050049",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sepang-loi-baharu-batu-anam-segamat-untuk-dijual-oleh-m-jamil-ali-60050049",
+      "title": "Kampung Sepang Loi Baharu Batu Anam Segamat",
+      "price": "RM 150,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "39738746": {
+      "listing_id": "39738746",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agriculture-land-at-segamat-untuk-dijual-oleh-m-jamil-ali-39738746",
+      "title": "Agriculture land at Segamat",
+      "price": "RM 1,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "40333929": {
+      "listing_id": "40333929",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/commercial-land-at-batu-pahat-untuk-dijual-oleh-m-jamil-ali-40333929",
+      "title": "Commercial land at Batu Pahat",
+      "price": "RM 2,401,200",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42488626": {
+      "listing_id": "42488626",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/bukit-songsang-temerloh-pahang-untuk-dijual-oleh-izzah-alias-42488626",
+      "title": "Bukit Songsang Temerloh, Pahang",
+      "price": "RM 490,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501145050": {
+      "listing_id": "501145050",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/titi-untuk-dijual-oleh-shahrol-ariffin-501145050",
+      "title": "Titi",
+      "price": "RM 790,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500495423": {
+      "listing_id": "500495423",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agriculture-land-jenderam-to-salak-tinggi-untuk-dijual-oleh-mohammad-sabri-mohd-khir-500495423",
+      "title": "Agriculture Land @ Jenderam to Salak Tinggi",
+      "price": "RM 3,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501144418": {
+      "listing_id": "501144418",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/taman-bukit-lela-untuk-dijual-oleh-mohammad-din-majid-501144418",
+      "title": "Taman Bukit Lela",
+      "price": "RM 21,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501144364": {
+      "listing_id": "501144364",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-tua-untuk-dijual-oleh-mohammad-din-majid-501144364",
+      "title": "Kampung Sungai Tua",
+      "price": "RM 3,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501144344": {
+      "listing_id": "501144344",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/hulu-langat-untuk-dijual-oleh-mohammad-din-majid-501144344",
+      "title": "Hulu Langat",
+      "price": "RM 750,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501144096": {
+      "listing_id": "501144096",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-sungai-pening-untuk-dijual-oleh-mohammad-din-majid-501144096",
+      "title": "Kampung Sungai Pening",
+      "price": "RM 699,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60046607": {
+      "listing_id": "60046607",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sg-plong-elmina-untuk-dijual-oleh-izzat-zamros-60046607",
+      "title": "Sg Plong Elmina",
+      "price": "RM 1,100,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500745246": {
+      "listing_id": "500745246",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/seri-kembangan-mex-highway-untuk-dijual-oleh-eugene-yap-500745246",
+      "title": "Seri Kembangan @ MEX Highway",
+      "price": "RM 35,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501131354": {
+      "listing_id": "501131354",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/semenyih-untuk-dijual-oleh-banin-yahya-501131354",
+      "title": "Semenyih",
+      "price": "RM 10,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501075257": {
+      "listing_id": "501075257",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-untuk-dijual-di-pinang-tunggal-untuk-dijual-oleh-sanggaran-muniandy-501075257",
+      "title": "Tanah untuk Dijual di Pinang Tunggal",
+      "price": "RM 2,010,752",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501130235": {
+      "listing_id": "501130235",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-pulau-meranti-untuk-dijual-oleh-fyza-ghazali-501130235",
+      "title": "Kampung Pulau Meranti",
+      "price": "RM 9,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60348111": {
+      "listing_id": "60348111",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-pertanian-kalumpang-untuk-dijual-oleh-iz-hakim-60348111",
+      "title": "Tanah Pertanian Kalumpang",
+      "price": "RM 300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60347985": {
+      "listing_id": "60347985",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-sawit-ulu-bernam-selangor-untuk-dijual-oleh-iz-hakim-60347985",
+      "title": "Tanah Sawit Ulu Bernam Selangor",
+      "price": "RM 850,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500766685": {
+      "listing_id": "500766685",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-135-ekar-tepi-jalan-utama-sungkai-perak-untuk-dijual-oleh-iz-hakim-500766685",
+      "title": "Tanah 135 Ekar Tepi Jalan Utama Sungkai Perak",
+      "price": "RM 27,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500765656": {
+      "listing_id": "500765656",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-industri-berskala-besar-sepang-koridor-klia-untuk-dijual-oleh-iz-hakim-500765656",
+      "title": "Tanah Industri berskala besar Sepang- Koridor Klia",
+      "price": "RM 90,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500184816": {
+      "listing_id": "500184816",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-dusun-durian-batang-kali-untuk-dijual-oleh-iz-hakim-500184816",
+      "title": "Tanah Dusun Durian Batang kali",
+      "price": "RM 2,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501126988": {
+      "listing_id": "501126988",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kula-langat-untuk-dijual-oleh-yvonne-ng-501126988",
+      "title": "Kula Langat",
+      "price": "RM 4,524,717",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501123834": {
+      "listing_id": "501123834",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sepang-untuk-dijual-oleh-mohd-khairul-amadi-mohd-yusoff-501123834",
+      "title": "Sepang",
+      "price": "RM 110,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500498143": {
+      "listing_id": "500498143",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agricultural-development-land-in-serene-mont-kiara-kuala-lumpur-untuk-dijual-oleh-rais-500498143",
+      "title": "Agricultural (Development) Land in Serene Mont Kiara Kuala Lumpur",
+      "price": "RM 20,908,800",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500576318": {
+      "listing_id": "500576318",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/development-land-at-jalan-cahaya-taman-tun-dr-ismail-kl-untuk-dijual-oleh-rais-500576318",
+      "title": "Development Land at Jalan Cahaya, Taman Tun Dr. Ismail KL",
+      "price": "RM 8,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500498254": {
+      "listing_id": "500498254",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agricultural-development-land-in-serene-mont-kiara-kuala-lumpur-untuk-dijual-oleh-rais-500498254",
+      "title": "Agricultural (Development) Land in Serene Mont Kiara Kuala Lumpur",
+      "price": "RM 5,554,160",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501120692": {
+      "listing_id": "501120692",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-tanah-rata-tanah-sawit-5-ekar-jalan-robinson-ijok-bestari-jaya-untuk-dijual-oleh-nik-azwan-501120692",
+      "title": "(Freehold, Tanah Rata) Tanah Sawit 5 Ekar, Jalan Robinson, Ijok, Bestari Jaya",
+      "price": "RM 1,980,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501120301": {
+      "listing_id": "501120301",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/palimbayan-land-sg-penchala-kuala-lumpur-untuk-dijual-oleh-rais-501120301",
+      "title": "Palimbayan Land, Sg. Penchala Kuala Lumpur",
+      "price": "RM 1,735,986",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42851757": {
+      "listing_id": "42851757",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/jeram-kuala-selangor-untuk-dijual-oleh-azizol-42851757",
+      "title": "Jeram Kuala Selangor",
+      "price": "RM 150,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "38631650": {
+      "listing_id": "38631650",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/hulu-langat-untuk-dijual-oleh-jik-wafa-38631650",
+      "title": "Hulu Langat",
+      "price": "RM 1,740,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "43216087": {
+      "listing_id": "43216087",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanjung-kupang-industrial-zoning-land-untuk-dijual-oleh-kev-hor-43216087",
+      "title": "Tanjung Kupang Industrial Zoning Land",
+      "price": "RM 5,566,968",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501110329": {
+      "listing_id": "501110329",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tembeling-untuk-dijual-oleh-pmgr-ts-kamal-ag-501110329",
+      "title": "Tembeling",
+      "price": "RM 400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501110291": {
+      "listing_id": "501110291",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/seremban-mukim-setul-negeri-sembilan-untuk-dijual-oleh-maria-abu-bakar-501110291",
+      "title": "Seremban Mukim Setul Negeri Sembilan",
+      "price": "RM 1,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "43463058": {
+      "listing_id": "43463058",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/alor-gajah-untuk-dijual-oleh-wesley-tan-43463058",
+      "title": "alor gajah",
+      "price": "RM 168,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500249836": {
+      "listing_id": "500249836",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/mukim-kenaboi-daerah-jelebu-negeri-sembilan-untuk-dijual-oleh-zaidah-ahmad-500249836",
+      "title": "Mukim Kenaboi, Daerah Jelebu, Negeri Sembilan",
+      "price": "RM 1,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60491430": {
+      "listing_id": "60491430",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-nerambai-lubok-china-untuk-dijual-oleh-faiz-reza-60491430",
+      "title": "Kampung Nerambai Lubok China",
+      "price": "RM 395,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500734423": {
+      "listing_id": "500734423",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-tepi-jalan-ijok-selangor-untuk-dijual-oleh-kamsol-mascuri-500734423",
+      "title": "Tanah Tepi Jalan Ijok Selangor",
+      "price": "RM 2,600,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60351717": {
+      "listing_id": "60351717",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-dusun-slim-river-untuk-dijual-oleh-iz-hakim-60351717",
+      "title": "Tanah Dusun Slim River",
+      "price": "RM 498,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500726245": {
+      "listing_id": "500726245",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-malay-kampung-baru-land-untuk-dijual-oleh-iz-hakim-500726245",
+      "title": "Freehold Malay Kampung Baru land",
+      "price": "RM 5,662,800",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60371579": {
+      "listing_id": "60371579",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-dusun-durian-kuala-pilah-seremban-untuk-dijual-oleh-iz-hakim-60371579",
+      "title": "Freehold Dusun Durian Kuala Pilah Seremban",
+      "price": "RM 1,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60344513": {
+      "listing_id": "60344513",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/dusun-buah-buahan-serendah-selangor-untuk-dijual-oleh-iz-hakim-60344513",
+      "title": "Dusun Buah- Buahan serendah Selangor",
+      "price": "RM 1,700,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500742572": {
+      "listing_id": "500742572",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/commercial-land-gombak-untuk-dijual-oleh-iz-hakim-500742572",
+      "title": "Commercial Land Gombak",
+      "price": "RM 5,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500308812": {
+      "listing_id": "500308812",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-pertanian-malay-reserve-di-lubok-kelubi-hulu-langat-untuk-dijual-oleh-hussaidi-hussin-500308812",
+      "title": "Tanah Pertanian Malay Reserve di Lubok Kelubi Hulu Langat",
+      "price": "RM 2,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501095012": {
+      "listing_id": "501095012",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/ijok-untuk-dijual-oleh-liza-khalid-501095012",
+      "title": "Ijok",
+      "price": "RM 1,450,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60321721": {
+      "listing_id": "60321721",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kita-avenue-square-untuk-dijual-oleh-david-wan-60321721",
+      "title": "KITA Avenue Square",
+      "price": "RM 1,339,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500626445": {
+      "listing_id": "500626445",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-seri-tanjung-masjid-tanah-untuk-dijual-oleh-abdul-razak-500626445",
+      "title": "Kampung Seri Tanjung Masjid Tanah",
+      "price": "RM 300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500726955": {
+      "listing_id": "500726955",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/karak-gombak-untuk-dijual-oleh-eugene-yap-500726955",
+      "title": "Karak @ Gombak",
+      "price": "RM 1,700,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "37023960": {
+      "listing_id": "37023960",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/agriculture-land-at-kuang-untuk-dijual-oleh-firdaussazwan-mustafa-37023960",
+      "title": "Agriculture land at Kuang",
+      "price": "RM 4,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500065479": {
+      "listing_id": "500065479",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/nice-resort-in-sungai-buloh-untuk-dijual-oleh-liza-khalid-500065479",
+      "title": "Nice Resort in Sungai Buloh",
+      "price": "RM 11,900,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500502333": {
+      "listing_id": "500502333",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/2-99-acre-agricultural-development-land-in-serene-mont-kiara-untuk-dijual-oleh-rais-500502333",
+      "title": "2.99 acre Agricultural (Development) Land in Serene Mont Kiara",
+      "price": "RM 14,504,799",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "37756516": {
+      "listing_id": "37756516",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/ladang-sawit-27-ekar-semerbok-rembau-untuk-dijual-oleh-rais-37756516",
+      "title": "Ladang Sawit 27 ekar Semerbok, Rembau",
+      "price": "RM 2,700,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500766965": {
+      "listing_id": "500766965",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/4-ekar-development-ready-bungalow-kayu-rumah-pekerja-dusun-infrastructure-siap-untuk-dijual-oleh-mohd-daim-jamil-500766965",
+      "title": "4 Ekar Development-Ready – Bungalow Kayu, Rumah Pekerja, Dusun & Infrastructure Siap",
+      "price": "RM 1,600,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501069171": {
+      "listing_id": "501069171",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sungai-merab-untuk-dijual-oleh-faridah-samah-501069171",
+      "title": "Sungai Merab",
+      "price": "RM 1,950,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501068405": {
+      "listing_id": "501068405",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/langkawi-untuk-dijual-oleh-ishak-bin-ismail-501068405",
+      "title": "Langkawi",
+      "price": "RM 11,669,061",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501067284": {
+      "listing_id": "501067284",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-bersize-banglo-lot-rantau-panjang-klang-untuk-dijual-oleh-azwa-abas-501067284",
+      "title": "TANAH BERSIZE BANGLO LOT RANTAU PANJANG, KLANG",
+      "price": "RM 160,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42190549": {
+      "listing_id": "42190549",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-gajah-untuk-dijual-oleh-shahrol-ariffin-42190549",
+      "title": "Kampung Gajah",
+      "price": "RM 200,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500449853": {
+      "listing_id": "500449853",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/ilp-pedas-kampung-paya-besar-untuk-dijual-oleh-abu-mansur-500449853",
+      "title": "Ilp Pedas Kampung Paya Besar",
+      "price": "RM 300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60156684": {
+      "listing_id": "60156684",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/pontian-untuk-dijual-oleh-saedah-napisah-60156684",
+      "title": "Pontian",
+      "price": "RM 350,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500719899": {
+      "listing_id": "500719899",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/sedenak-untuk-dijual-oleh-saedah-napisah-500719899",
+      "title": "Sedenak",
+      "price": "RM 900,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500518652": {
+      "listing_id": "500518652",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/batang-kali-untuk-dijual-oleh-liza-khalid-500518652",
+      "title": "Batang Kali",
+      "price": "RM 550,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "43331741": {
+      "listing_id": "43331741",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/residensi-naluri-mahkota-cheras-untuk-dijual-oleh-liza-khalid-43331741",
+      "title": "Residensi Naluri @ Mahkota Cheras",
+      "price": "RM 275,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500356174": {
+      "listing_id": "500356174",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/3-24-ekar-dusun-durian-ada-sungai-cantik-untuk-dijual-oleh-liza-khalid-500356174",
+      "title": "3.24 Ekar Dusun Durian Ada Sungai Cantik",
+      "price": "RM 1,300,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500184162": {
+      "listing_id": "500184162",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/dusun-durian-batang-kali-untuk-dijual-oleh-iz-hakim-500184162",
+      "title": "Dusun Durian Batang kali",
+      "price": "RM 1,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500719414": {
+      "listing_id": "500719414",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/residential-land-batu-6-gombak-setia-selangor-untuk-dijual-oleh-iz-hakim-500719414",
+      "title": "Residential Land Batu 6 Gombak Setia Selangor",
+      "price": "RM 24,000,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500719258": {
+      "listing_id": "500719258",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/freehold-malay-tanah-sri-gombak-height-untuk-dijual-oleh-iz-hakim-500719258",
+      "title": "Freehold Malay Tanah Sri Gombak Height",
+      "price": "RM 11,200,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501046870": {
+      "listing_id": "501046870",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/pasir-puteh-untuk-dijual-oleh-andrea-letchu-501046870",
+      "title": "Pasir Puteh",
+      "price": "RM 2,100,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500445834": {
+      "listing_id": "500445834",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-hulu-tamu-batang-kali-untuk-dijual-oleh-iz-hakim-500445834",
+      "title": "Tanah Hulu Tamu Batang Kali",
+      "price": "RM 890,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500569127": {
+      "listing_id": "500569127",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/janda-baik-bentong-tanah-pertanian-untuk-dijual-oleh-effendy-shohaili-500569127",
+      "title": "JANDA BAIK BENTONG TANAH PERTANIAN",
+      "price": "RM 1,800,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42726530": {
+      "listing_id": "42726530",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-air-betang-untuk-dijual-oleh-muhammad-nazli-mohd-amin-42726530",
+      "title": "Kampung Air Betang",
+      "price": "RM 178,400",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "39905934": {
+      "listing_id": "39905934",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/mukim-labu-sepang-tanah-pertanian-untuk-dijual-oleh-nazree-abdul-aziz-39905934",
+      "title": "Mukim Labu Sepang Tanah Pertanian",
+      "price": "RM 260,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500587625": {
+      "listing_id": "500587625",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/chalet-air-terjun-sungai-sendat-ulu-yam-batang-kali-untuk-di-jual-untuk-dijual-oleh-laili-mihdar-500587625",
+      "title": "Chalet Air Terjun Sungai Sendat Ulu Yam Batang Kali Untuk Di jual",
+      "price": "RM 4,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501043888": {
+      "listing_id": "501043888",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/janda-baik-bentong-pahang-untuk-dijual-oleh-zira-501043888",
+      "title": "Janda Baik, Bentong, Pahang",
+      "price": "RM 2,400,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60376188": {
+      "listing_id": "60376188",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-tepi-sungai-batang-kali-hulu-rening-untuk-dijual-oleh-iz-hakim-60376188",
+      "title": "Tanah Tepi Sungai Batang Kali Hulu Rening",
+      "price": "RM 2,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "60347137": {
+      "listing_id": "60347137",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-tepi-sungai-batang-kali-untuk-dijual-oleh-iz-hakim-60347137",
+      "title": "Tanah Tepi Sungai Batang kali",
+      "price": "RM 950,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500700960": {
+      "listing_id": "500700960",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kuala-lumpur-untuk-dijual-oleh-mu-izz-halim-500700960",
+      "title": "Kuala Lumpur",
+      "price": "RM 17,700,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "42859810": {
+      "listing_id": "42859810",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-kelapa-sawit-untuk-dijual-oleh-yusof-omar-42859810",
+      "title": "Tanah Kelapa sawit",
+      "price": "RM 160,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "39194298": {
+      "listing_id": "39194298",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/commercial-land-jalan-sultan-ismail-untuk-dijual-oleh-siti-nadzirah-abdullah-39194298",
+      "title": "Commercial Land Jalan Sultan Ismail",
+      "price": "RM 9,900,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500109884": {
+      "listing_id": "500109884",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/pulau-meranti-industrial-land-untuk-dijual-oleh-simon-khoo-500109884",
+      "title": "Pulau Meranti Industrial Land",
+      "price": "RM 1,500,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500707493": {
+      "listing_id": "500707493",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kampung-rantau-panjang-untuk-dijual-oleh-asyran-laidin-500707493",
+      "title": "Kampung Rantau Panjang",
+      "price": "RM 2,203,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501020814": {
+      "listing_id": "501020814",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/kuala-linggi-untuk-dijual-oleh-ewat-khairul-501020814",
+      "title": "Kuala Linggi",
+      "price": "RM 320,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "501018904": {
+      "listing_id": "501018904",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/tanah-hulu-tamu-batang-kali-untuk-dijual-oleh-iz-hakim-501018904",
+      "title": "Tanah Hulu Tamu Batang Kali",
+      "price": "RM 749,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    },
+    "500029471": {
+      "listing_id": "500029471",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/mahkota-hills-untuk-dijual-oleh-asyran-laidin-500029471",
+      "title": "Mahkota Hills",
+      "price": "RM 880,000",
+      "first_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "last_seen_at": "2026-05-14T11:51:56.169827+08:00",
+      "source": "propertyguru"
+    }
+  }
+}
