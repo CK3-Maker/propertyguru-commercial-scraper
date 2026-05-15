@@ -15,11 +15,22 @@ DEBUG_DIR = BASE_DIR / "debug"
 TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID: str = os.getenv("TELEGRAM_CHAT_ID", "")
 
-BASE_URL: str = os.getenv(
-    "BASE_URL",
+PROPERTYGURU_URL: str = os.getenv(
+    "PROPERTYGURU_URL",
     "https://www.propertyguru.com.my/bm/hartanah-dijual"
     "?listingType=sale&page=1&isCommercial=true&tenureCode=M&sort=date&order=desc",
 )
+
+IPROPERTY_URL: str = os.getenv(
+    "IPROPERTY_URL",
+    "https://www.iproperty.com.my/property-for-sale"
+    "?listingType=sale&page=1&isCommercial=true&tenureCode=M",
+)
+
+SOURCES: list[dict] = [
+    {"name": "PropertyGuru", "base_url": PROPERTYGURU_URL, "domain": "propertyguru.com.my"},
+    {"name": "iProperty", "base_url": IPROPERTY_URL, "domain": "iproperty.com.my"},
+]
 
 MAX_PAGES: int = int(os.getenv("MAX_PAGES", "10"))
 

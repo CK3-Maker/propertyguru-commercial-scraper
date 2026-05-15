@@ -9,7 +9,10 @@ from scraper.config import COMMERCIAL_KEYWORDS
 
 logger = logging.getLogger(__name__)
 
-BASE_DOMAIN = "https://www.propertyguru.com.my"
+DOMAIN_MAP = {
+    "propertyguru": "https://www.propertyguru.com.my",
+    "iproperty": "https://www.iproperty.com.my",
+}
 
 
 def clean_text(text: str | None) -> str:
@@ -18,11 +21,12 @@ def clean_text(text: str | None) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def normalize_url(url: str) -> str:
+def normalize_url(url: str, domain: str = "") -> str:
     if not url:
         return ""
     if url.startswith("/"):
-        url = urljoin(BASE_DOMAIN, url)
+        base = domain or DOMAIN_MAP["propertyguru"]
+        url = urljoin(base, url)
     parsed = urlparse(url)
     return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
 
@@ -30,10 +34,13 @@ def normalize_url(url: str) -> str:
 def extract_listing_id(url: str) -> str:
     """Derive a unique listing ID from the URL path.
 
-    PropertyGuru URLs typically end with a numeric ID, e.g.
-    /property-for-sale/something-12345678
+    PropertyGuru: /senarai-hartanah/something-12345678
+    iProperty: /property/area/name/sale-12345678/
     """
     url = normalize_url(url)
+    match = re.search(r"[/-](\d{5,})/?$", url)
+    if match:
+        return match.group(1)
     match = re.search(r"-(\d{5,})(?:/|$)", url)
     if match:
         return match.group(1)

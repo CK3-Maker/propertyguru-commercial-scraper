@@ -1,4 +1,4 @@
-"""PropertyGuru Commercial Property Scraper — daily entry point."""
+"""Commercial Property Scraper — PropertyGuru + iProperty daily entry point."""
 
 import logging
 import sys
@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytz
 
-from scraper.config import TIMEZONE, LOGS_DIR, BASE_URL
+from scraper.config import TIMEZONE, LOGS_DIR, SOURCES
 from scraper.browser import create_scraper
 from scraper.listing_scraper import scrape_listings
 from scraper.detail_scraper import scrape_all_details
@@ -49,10 +49,11 @@ def run() -> int:
     setup_logging(now)
     logger = logging.getLogger("main")
 
+    source_names = ", ".join(s["name"] for s in SOURCES)
     logger.info("=" * 60)
-    logger.info("PropertyGuru Commercial Scraper starting")
+    logger.info("Commercial Property Scraper starting")
+    logger.info("Sources: %s", source_names)
     logger.info("Time: %s", now.isoformat())
-    logger.info("Base URL: %s", BASE_URL)
     logger.info("=" * 60)
 
     seen_data = load_seen_listings()
@@ -67,46 +68,59 @@ def run() -> int:
     now_str = now.strftime("%Y-%m-%d")
 
     session = create_scraper()
-    new_listings: list[dict] = []
-    old_listings: list[dict] = []
-    enriched: list[dict] = []
-    pages_checked = 0
-    fail_count = 0
-    blocked = False
+    all_new: list[dict] = []
+    all_old: list[dict] = []
+    all_enriched: list[dict] = []
+    total_pages = 0
+    total_fail = 0
+    blocked_sources: list[str] = []
 
-    try:
-        new_listings, old_listings, pages_checked = scrape_listings(session, seen_data)
+    for source in SOURCES:
+        name = source["name"]
+        base_url = source["base_url"]
+        domain = source["domain"]
+        logger.info("--- Scraping %s ---", name)
 
-        logger.info(
-            "Listing scrape done: %d new, %d old across %d pages",
-            len(new_listings), len(old_listings), pages_checked,
-        )
+        try:
+            new_listings, old_listings, pages_checked = scrape_listings(
+                session, seen_data,
+                base_url=base_url, source_name=name, domain=domain,
+            )
+            total_pages += pages_checked
+            all_old.extend(old_listings)
 
-        if new_listings:
-            enriched, fail_count = scrape_all_details(session, new_listings, now)
-        else:
-            enriched = []
-            logger.info("No new listings — skipping detail scraping")
+            logger.info(
+                "[%s] Listing scrape done: %d new, %d old across %d pages",
+                name, len(new_listings), len(old_listings), pages_checked,
+            )
 
-    except RuntimeError as exc:
-        if "CAPTCHA" in str(exc) or "bot detection" in str(exc).lower():
-            blocked = True
-            logger.error("Scraper blocked: %s", exc)
-        else:
-            logger.exception("Runtime error during scraping")
-    except Exception:
-        logger.exception("Unexpected error during scraping")
+            if new_listings:
+                enriched, fail_count = scrape_all_details(session, new_listings, now)
+                all_enriched.extend(enriched)
+                total_fail += fail_count
+            else:
+                logger.info("[%s] No new listings — skipping detail scraping", name)
 
-    if blocked:
+        except RuntimeError as exc:
+            if "CAPTCHA" in str(exc) or "bot detection" in str(exc).lower():
+                blocked_sources.append(name)
+                logger.error("[%s] Blocked: %s", name, exc)
+            else:
+                logger.exception("[%s] Runtime error", name)
+        except Exception:
+            logger.exception("[%s] Unexpected error", name)
+
+    if blocked_sources:
         send_alert(
-            "PropertyGuru scraper was blocked by anti-bot detection.\n"
+            f"Scraper blocked on: {', '.join(blocked_sources)}\n"
             f"Time: {now.isoformat()}\n"
-            "Check the debug/ folder for saved HTML."
+            "Check debug/ folder for details."
         )
-        return 1
+        if not all_enriched and not all_old:
+            return 1
 
     # Update seen listings
-    for lst in enriched:
+    for lst in all_enriched:
         mark_listing_seen(
             seen_data,
             lst["listing_id"],
@@ -115,7 +129,7 @@ def run() -> int:
             lst.get("price", ""),
             now,
         )
-    for lst in old_listings:
+    for lst in all_old:
         mark_listing_seen(
             seen_data,
             lst["listing_id"],
@@ -128,22 +142,24 @@ def run() -> int:
     save_seen_listings(seen_data)
 
     # Excel export
-    total_scanned = len(new_listings) + len(old_listings)
+    total_scanned = len(all_enriched) + len(all_old)
     summary = {
         "Report Date": now_str,
         "Scrape Window Start": window_start,
         "Scrape Window End": window_end,
-        "Total Pages Checked": pages_checked,
+        "Sources": source_names,
+        "Total Pages Checked": total_pages,
         "Total Listings Found": total_scanned,
-        "New Listings Count": len(enriched),
-        "Old Listings Count": len(old_listings),
-        "Failed Detail Pages": fail_count,
+        "New Listings Count": len(all_enriched),
+        "Old Listings Count": len(all_old),
+        "Failed Detail Pages": total_fail,
+        "Blocked Sources": ", ".join(blocked_sources) if blocked_sources else "None",
         "Generated At": now.isoformat(),
     }
 
     excel_path: Path | None = None
     try:
-        excel_path = export_excel(enriched, summary, now)
+        excel_path = export_excel(all_enriched, summary, now)
         logger.info("Excel exported: %s", excel_path)
     except Exception:
         logger.exception("Excel export failed")
@@ -151,9 +167,9 @@ def run() -> int:
     # Telegram
     msg = build_summary_message(
         now_str, window_start, window_end,
-        pages_checked, total_scanned,
-        len(enriched), fail_count,
-        enriched,
+        total_pages, total_scanned,
+        len(all_enriched), total_fail,
+        all_enriched,
     )
 
     if is_configured():
@@ -164,7 +180,7 @@ def run() -> int:
 
         if excel_path and excel_path.exists():
             try:
-                send_document(excel_path, caption=f"PropertyGuru Report {now_str}")
+                send_document(excel_path, caption=f"Commercial Property Report {now_str}")
             except Exception:
                 logger.exception("Failed to send Telegram document")
         elif not excel_path:
@@ -175,7 +191,7 @@ def run() -> int:
     else:
         logger.warning("Telegram not configured — results only in Excel and logs")
 
-    logger.info("Scraper finished. New: %d, Failed details: %d", len(enriched), fail_count)
+    logger.info("Scraper finished. New: %d, Failed details: %d", len(all_enriched), total_fail)
     return 0
 
 

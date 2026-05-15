@@ -56,7 +56,7 @@ def export_excel(
 
     # --- Sheet 2: New Listings ---
     new_cols = [
-        "No.", "Listing ID", "Title", "URL", "Price", "Price Note", "Price Numeric",
+        "No.", "Source", "Listing ID", "Title", "URL", "Price", "Price Note", "Price Numeric",
         "Location", "State", "Property Type", "Tenure", "Furnishing",
         "Land Area", "Price Per Sqft",
         "Agent Name", "Agency Name", "Posted Date",
@@ -72,6 +72,7 @@ def export_excel(
         psf = lst.get("psf_detail") or lst.get("psf", "")
         new_rows.append({
             "No.": i,
+            "Source": lst.get("source", ""),
             "Listing ID": lst.get("listing_id_page") or lst.get("listing_id", ""),
             "Title": lst.get("detail_title") or lst.get("title", ""),
             "URL": lst.get("url", ""),

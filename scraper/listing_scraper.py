@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import cloudscraper
 
 from scraper.config import (
-    BASE_URL, MAX_PAGES,
+    MAX_PAGES,
     PAGE_DELAY_MIN, PAGE_DELAY_MAX, DEBUG_DIR,
 )
 from scraper.parser import (
@@ -22,8 +22,8 @@ from scraper.storage import is_listing_seen
 logger = logging.getLogger(__name__)
 
 
-def build_page_url(page_num: int) -> str:
-    parsed = urlparse(BASE_URL)
+def build_page_url(base_url: str, page_num: int) -> str:
+    parsed = urlparse(base_url)
     qs = parse_qs(parsed.query)
     qs["page"] = [str(page_num)]
     new_query = urlencode(qs, doseq=True)
@@ -44,7 +44,7 @@ def _save_debug_html(html: str, label: str) -> None:
     logger.info("Debug HTML saved: %s", path)
 
 
-def _parse_listing_cards(html: str) -> list[dict]:
+def _parse_listing_cards(html: str, source_name: str = "", domain: str = "") -> list[dict]:
     soup = BeautifulSoup(html, "lxml")
     cards = soup.select("div.listing-card-v2")
 
@@ -56,9 +56,10 @@ def _parse_listing_cards(html: str) -> list[dict]:
     for card in cards:
         # URL and title
         title_el = card.select_one("h3.listing-type-text")
-        link_els = card.select('a[href*="senarai-hartanah"], a[href*="property-for-sale"]')
+        link_els = card.select('a[href*="senarai-hartanah"], a[href*="property-for-sale"], a[href*="/property/"], a[href*="/sale-"]')
         href = link_els[0]["href"] if link_els else ""
-        url = normalize_url(href)
+        base_domain = f"https://www.{domain}" if domain else ""
+        url = normalize_url(href, base_domain)
         listing_id = extract_listing_id(url)
         title = clean_text(title_el.get_text()) if title_el else ""
 
@@ -136,6 +137,7 @@ def _parse_listing_cards(html: str) -> list[dict]:
             "agency_name": "",
             "posted_date_text": posted_date_text,
             "listing_label": listing_label,
+            "source": source_name,
         })
 
     return results
@@ -144,38 +146,41 @@ def _parse_listing_cards(html: str) -> list[dict]:
 def scrape_listings(
     session: cloudscraper.CloudScraper,
     seen_data: dict,
+    base_url: str,
+    source_name: str = "",
+    domain: str = "",
 ) -> tuple[list[dict], list[dict], int]:
-    """Scrape listing pages. Returns (new_listings, old_listings, pages_checked)."""
+    """Scrape listing pages for one source. Returns (new_listings, old_listings, pages_checked)."""
     new_listings: list[dict] = []
     old_listings: list[dict] = []
     pages_checked = 0
 
     for page_num in range(1, MAX_PAGES + 1):
-        url = build_page_url(page_num)
-        logger.info("Scraping page %d: %s", page_num, url)
+        url = build_page_url(base_url, page_num)
+        logger.info("[%s] Scraping page %d: %s", source_name, page_num, url)
 
         try:
             resp = session.get(url, timeout=30)
         except Exception as exc:
-            logger.error("Failed to load page %d: %s", page_num, exc)
+            logger.error("[%s] Failed to load page %d: %s", source_name, page_num, exc)
             break
 
         pages_checked += 1
 
         if resp.status_code != 200:
-            logger.error("Page %d returned status %d", page_num, resp.status_code)
-            _save_debug_html(resp.text, f"error_p{page_num}")
+            logger.error("[%s] Page %d returned status %d", source_name, page_num, resp.status_code)
+            _save_debug_html(resp.text, f"{source_name}_error_p{page_num}")
             break
 
         html = resp.text
 
         if _detect_block(html):
-            logger.error("Bot detection on page %d — stopping", page_num)
-            _save_debug_html(html, f"blocked_p{page_num}")
-            raise RuntimeError("CAPTCHA or bot detection triggered")
+            logger.error("[%s] Bot detection on page %d — stopping", source_name, page_num)
+            _save_debug_html(html, f"{source_name}_blocked_p{page_num}")
+            raise RuntimeError(f"CAPTCHA or bot detection triggered on {source_name}")
 
-        cards = _parse_listing_cards(html)
-        logger.info("Page %d: found %d listing cards", page_num, len(cards))
+        cards = _parse_listing_cards(html, source_name=source_name, domain=domain)
+        logger.info("[%s] Page %d: found %d listing cards", source_name, page_num, len(cards))
 
         if not cards:
             logger.info("No cards on page %d — stopping pagination", page_num)

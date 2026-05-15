@@ -84,9 +84,10 @@ def build_summary_message(
     new_listings: list[dict],
 ) -> str:
     lines = [
-        "<b>PropertyGuru Commercial New Listings Report</b>",
+        "<b>Commercial Property New Listings Report</b>",
         f"Date: {now_str}",
         f"Scrape Window: {window_start} to {window_end} MYT",
+        f"Sources: PropertyGuru + iProperty",
         "",
         "<b>Summary:</b>",
         f"- Pages checked: {pages_checked}",
@@ -99,17 +100,18 @@ def build_summary_message(
     if new_listings:
         lines.append("<b>Top new listings:</b>")
         for i, lst in enumerate(new_listings[:5], 1):
+            source = lst.get("source", "")
             title = lst.get("detail_title") or lst.get("title", "N/A")
             price = lst.get("price", "N/A")
             location = lst.get("address") or lst.get("location", "N/A")
             url = lst.get("url", "")
-            lines.append(f"{i}. {title} — {price} — {location}")
+            lines.append(f"{i}. [{source}] {title} — {price} — {location}")
             if url:
                 lines.append(f"   {url}")
         lines.append("")
         lines.append("Excel report attached.")
     else:
-        lines.append("No new PropertyGuru commercial listings found for today's 6 PM scrape.")
+        lines.append("No new commercial listings found for today's 6 PM scrape.")
 
     return "\n".join(lines)
 
